@@ -1,19 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
 ## 🧠 If we understand this project :
     We will have clear concept about Promises, resolve, reject, .then(), .catch(), .finally(), callbacks, Javascript event loop ( call stack, WebAPI, task queue, microtask queue), useEffect hook, lazy loading, code spittling, Suspense, Javascript single threaded nature, Javascript asynchronous nature, concurrent React ( useTransition and useDeferredValue), Virual DOM, setTimeInterval, setTimeouts, props, components, destructuring, etc.
 
@@ -197,6 +181,22 @@ This project demonstrates how React’s **Concurrent Mode** helps with smoother 
 - Event loop behavior, **task queues**, and **microtask queues**  
 - `useRef` for safe interval management  
 - `useTransition` and `isPending` , `useDeferredValue` for **responsive UI** rendering
+
+# Getting Started with Create React App
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
 ---
 
