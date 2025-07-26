@@ -1,5 +1,6 @@
 ## 🧠 If we understand this project :
-    We will have clear concept about Promises, resolve, reject, .then(), .catch(), .finally(), callbacks, Javascript event loop ( call stack, WebAPI, task queue, microtask queue), useEffect hook, lazy loading, code spittling, Suspense, Javascript single threaded nature, Javascript asynchronous nature, concurrent React ( useTransition and useDeferredValue), Virual DOM, setTimeInterval, setTimeouts, props, components, destructuring, etc.
+    
+We will have clear concept about Promises, resolve, reject, .then(), .catch(), .finally(), callbacks, Javascript event loop ( call stack, WebAPI, task queue, microtask queue), useEffect hook, lazy loading, code spittling, Suspense, Javascript single threaded nature, Javascript asynchronous nature, concurrent React ( useTransition and useDeferredValue), Virual DOM, setTimeInterval, setTimeouts, props, components, destructuring, etc.
 
 ## 🧠 Understanding How React Concurrent Mode Works in This Project
 
