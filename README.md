@@ -1,9 +1,15 @@
 ## 🧠 If we understand this project :
-    We will have clear concept about Promises, resolve, reject, .then(), .catch(), .finally(), callbacks, Javascript event loop ( call stack, WebAPI, task queue, microtask queue), useEffect hook, lazy loading, code spittling, Suspense, Javascript single threaded nature, Javascript asynchronous nature, concurrent React ( useTransition and useDeferredValue), Virual DOM, setTimeInterval, setTimeouts, props, components, destructuring, etc.
+    
+We will have clear concept about Promises, resolve, reject, .then(), .catch(), .finally(), callbacks, Javascript event loop ( call stack, WebAPI, task queue, microtask queue), useEffect hook, lazy loading, code spittling, Suspense, Javascript single threaded nature, Javascript synchronout and asynchronous nature, concurrent React ( useTransition and useDeferredValue), Virual DOM, setInterval, setTimeouts, props, components, destructuring, etc.
+
+😊 Please read the code and follow along to understand what is happening. Feel free to reach out to me at upasanapan610@gmail.com if you have any thoughts or would just like to connect.
+Thank you!
+
 
 ## 🧠 Understanding How React Concurrent Mode Works in This Project
 
 ---
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/030f486e-ef08-4166-8328-19728145d6a0" />
 
 1. **Initial Render**:  
    React creates a Virtual DOM tree from the JSX and uses this to render the real DOM for the first time. The state of the `isOn` variable is initialized as `false`. Thus, we see "button clicks in call stack" in the console.
@@ -42,8 +48,9 @@
 7. Then, finally, the **User Cards appear**.
 
 ---
+![screen-capture-_3_](https://github.com/user-attachments/assets/ed1af4fc-5497-4abd-a140-4fa48f93f961)
 
-8. On clicking the **“Turn Off”** button, infinite auto-clicking of the toggle button starts at 500ms intervals.
+8. On clicking the **“Turn Off”** button, infinite auto-clicking of the toggle button starts at 1ms intervals.
 
 ---
 
