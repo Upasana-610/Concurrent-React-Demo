@@ -29,7 +29,7 @@ export const fetchSlow = () => {
 
 const SlowPost = ({ index }) => {
   let startTime = performance.now();
-  while (performance.now() - startTime < 500) {
+  while (performance.now() - startTime < 1) {
     // Do nothing for 1 ms per item to emulate extremely slow code
   }
 
