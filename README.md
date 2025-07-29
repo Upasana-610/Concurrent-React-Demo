@@ -48,7 +48,8 @@ Thank you!
 7. Then, finally, the **User Cards appear**.
 
 ---
-[🎥 Watch Demo on Vimeo](https://vimeo.com/1105335586)
+![screen-capture-_3_](https://github.com/user-attachments/assets/ed1af4fc-5497-4abd-a140-4fa48f93f961)
+
 8. On clicking the **“Turn Off”** button, infinite auto-clicking of the toggle button starts at 1ms intervals.
 
 ---
