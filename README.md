@@ -9,6 +9,7 @@ Thank you!
 ## 🧠 Understanding How React Concurrent Mode Works in This Project
 
 ---
+<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/030f486e-ef08-4166-8328-19728145d6a0" />
 
 1. **Initial Render**:  
    React creates a Virtual DOM tree from the JSX and uses this to render the real DOM for the first time. The state of the `isOn` variable is initialized as `false`. Thus, we see "button clicks in call stack" in the console.
@@ -47,8 +48,8 @@ Thank you!
 7. Then, finally, the **User Cards appear**.
 
 ---
-
-8. On clicking the **“Turn Off”** button, infinite auto-clicking of the toggle button starts at 500ms intervals.
+[🎥 Watch Demo on Vimeo](https://vimeo.com/1105335586)
+8. On clicking the **“Turn Off”** button, infinite auto-clicking of the toggle button starts at 1ms intervals.
 
 ---
 
